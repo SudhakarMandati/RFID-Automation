@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="Lib/apache-log4j.jar"/>
+	<classpathentry kind="lib" path="Lib/jxl.jar"/>
+	<classpathentry kind="lib" path="Lib/mail.jar"/>
+	<classpathentry kind="lib" path="Lib/MonteScreenRecorder.jar"/>
+	<classpathentry kind="lib" path="Lib/selenium-java-2.33.0.jar"/>
+	<classpathentry kind="lib" path="Lib/selenium-server-standalone-2.33.0.jar"/>
+	<classpathentry kind="lib" path="Lib/extentreports-java-2.40.2.jar"/>
+	<classpathentry kind="lib" path="Lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="Lib/jsoup-1.8.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
